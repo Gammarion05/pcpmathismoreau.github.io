@@ -350,7 +350,6 @@ body {
 .info-section {
     margin-top: 4rem;
     animation: fadeInUp 0.8s ease 0.6s backwards;
-    margin-bottom: 6rem;
 }
 
 .info-section h2 {
