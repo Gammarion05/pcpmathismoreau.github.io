@@ -371,6 +371,7 @@ body {
     box-shadow: var(--shadow-sm);
     text-align: center;
     transition: var(--transition);
+    margin-bottom: 2rem;
 }
 
 .info-item:hover {
